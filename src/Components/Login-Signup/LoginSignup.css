@@ -88,8 +88,11 @@
   font-weight: 700;
   cursor: pointer;
 }
-.gray{
-    background: #EAEAEA;
-    color: #676767;
+.gray {
+  background: #eaeaea;
+  color: #676767;
 }
-
+.submit-button {
+  background-color: purple;
+  color: white;
+}
